@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Notes & Blogs
 
 # Your name to show in the footer
-author: Some Person
+author: Fuat Karakus
 
 # --- List of links in the navigation bar --- #
 
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://fuatkarakus.github.io"
 
 # --- Logo --- #
 
@@ -41,7 +41,7 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   facebook: deanattali
-  github: daattali
+  github: fuatkarakus
   twitter: daattali
   patreon: DeanAttali
   youtube: c/daattali
